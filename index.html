@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Our Wardrobe Studio</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Style My Outfit</h1>
+    <p>Select a category below to pick today's fit.</p>
+  </header>
+
+  <!-- Navigation Tabs -->
+  <nav class="category-nav">
+    <button class="nav-btn active" data-category="sweaters">Sweaters</button>
+    <button class="nav-btn" data-category="jackets">Jackets</button>
+    <button class="nav-btn" data-category="shirts">Shirts</button>
+    <button class="nav-btn" data-category="pants">Pants</button>
+    <button class="nav-btn" data-category="shoes">Shoes</button>
+    <button class="nav-btn" data-category="socks">Socks</button>
+  </nav>
+
+  <!-- Main Image Grid -->
+  <main>
+    <div id="clothing-grid" class="grid"></div>
+  </main>
+
+  <!-- Selected Outfit Builder Bar -->
+  <section class="outfit-bar">
+    <h2>Current Selection</h2>
+    <div id="outfit-summary" class="summary-list">
+      <p>No items selected yet. Click an item to add it to the outfit!</p>
+    </div>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>

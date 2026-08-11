@@ -1,0 +1,54 @@
+{
+  "sweaters": [
+    { "id": "sw1", "name": "Blue Nautica", "image": "images/sweaters/IMG_3176.jpg", "tag": "Blue" },
+    { "id": "sw2", "name": "Grey V neck", "image": "images/sweaters/IMG_3177.jpg", "tag": "Casual" },
+    { "id": "sw3", "name": "red crewneck", "image": "images/sweaters/IMG_3178.jpg", "tag": "Casual" }
+  ],
+  "jackets": [
+    { "id": "jk1", "name": "orange columbia", "image": "images/jackets/IMG_3147.jpg", "tag": "Outerwear" },
+    { "id": "jk2", "name": "blue hoodie", "image": "images/jackets/IMG_3148.jpg", "tag": "Outerwear" },
+    { "id": "jk3", "name": "tweed", "image": "images/jackets/IMG_3150.jpg", "tag": "Outerwear" },
+    { "id": "jk3", "name": "blue thing", "image": "images/jackets/IMG_3149.jpg", "tag": "Outerwear" },
+    { "id": "jk4", "name": "vest", "image": "images/jackets/IMG_3151.jpg", "tag": "Outerwear" }
+  ],
+  "shirts": [
+    { "id": "sh1", "name": "dark pattern", "image": "images/shirts/IMG_3140.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "blue pinstripe", "image": "images/shirts/IMG_3141.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "blue pocket", "image": "images/shirts/IMG_3142.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "white", "image": "images/shirts/IMG_3143.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "blue tommy", "image": "images/shirts/IMG_3144.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "ralph lauren blue", "image": "images/shirts/IMG_3145.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "checkered blue", "image": "images/shirts/IMG_3146.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "plaid blue", "image": "images/shirts/IMG_3149.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "blue no pcoket", "image": "images/shirts/IMG_3157.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "blue tee", "image": "images/shirts/IMG_3158.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "polo blue", "image": "images/shirts/IMG_3161.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "polo black", "image": "images/shirts/IMG_3162.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "polo red", "image": "images/shirts/IMG_3163.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "polo gray", "image": "images/shirts/IMG_3164.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "polo white", "image": "images/shirts/IMG_3165.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "polo muted blue", "image": "images/shirts/IMG_3166.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "polo blue pocket", "image": "images/shirts/IMG_3167.jpg", "tag": "Smart Casual" },
+    { "id": "sh1", "name": "blue plaid", "image": "images/shirts/IMG_3168.jpg", "tag": "Smart Casual" }
+  ],
+  "pants": [
+    { "id": "pt1", "name": "straigh fit raw jeans", "image": "images/pants/IMG_3152.jpg", "tag": "Everyday" },
+    { "id": "pt1", "name": "levi 505 dark", "image": "images/pants/IMG_3160.jpg", "tag": "Everyday" },
+    { "id": "pt1", "name": "levi 505 light", "image": "images/pants/IMG_3169.jpg", "tag": "Everyday" },
+    { "id": "pt1", "name": "canvas", "image": "images/pants/IMG_3170.jpg", "tag": "Everyday" },
+    { "id": "pt1", "name": "levi 537", "image": "images/pants/IMG_3171.jpg", "tag": "Everyday" },
+    { "id": "pt1", "name": "wrangler relaxed fit 31mwz", "image": "images/pants/IMG_3172.jpg", "tag": "Everyday" }
+  ],
+  "shoes": [
+    { "id": "sh1", "name": "black leather", "image": "images/shoes/IMG_3153.jpg", "tag": "Formal" },
+    { "id": "sh1", "name": "aasics ", "image": "images/shoes/IMG_3154.jpg", "tag": "Formal" },
+    { "id": "sh1", "name": "Nike af1 hightop", "image": "images/shoes/IMG_3155.jpg", "tag": "Formal" },
+    { "id": "sh1", "name": "nike black runner", "image": "images/shoes/IMG_3156.jpg", "tag": "Formal" }
+  ],
+  "socks": [
+    { "id": "sk1", "name": "my favorites<3", "image": "images/socks/IMG_3159.jpg", "tag": "Casual" },
+    { "id": "sk1", "name": "dots", "image": "images/socks/IMG_3173.jpg", "tag": "Casual" },
+    { "id": "sk1", "name": "diamond", "image": "images/socks/IMG_3174.jpg", "tag": "Casual" },
+    { "id": "sk1", "name": "cool", "image": "images/socks/IMG_3175.jpg", "tag": "Casual" }
+  ]
+}
